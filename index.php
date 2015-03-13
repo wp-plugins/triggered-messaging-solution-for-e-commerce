@@ -2,7 +2,7 @@
 /*
     Plugin Name: TriggMine
     Description: Turn abandoned baskets in the extra 30% of sales. Get in touch with the customer before he will buy somewhere else! <a href=\"http://triggmine.com\">...more info...</a>
-    Version: 2.0
+    Version: 1.0
     Author: TriggMine
     Author URI: http://triggmine.com
 	Text Domain: triggmine
