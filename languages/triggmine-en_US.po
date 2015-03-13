@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TriggMine v2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-12 10:49:57+0000\n"
+"Last-Translator: admin <admin@admin.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#. translators: plugin header field 'Author'
+#: index.php:0
+#@ triggmine
+msgid "TriggMine"
+msgstr "TriggMine"
+
+#. translators: plugin header field 'Description'
+#: index.php:0
+#@ triggmine
+msgid "Turn abandoned baskets in the extra 30% of sales. Get in touch with the customer before he will buy somewhere else! <a href=\\\"http://triggmine.com\\\">...more info...</a>"
+msgstr "Turn abandoned baskets in the extra 30% of sales. Get in touch with the customer before he will buy somewhere else! <a href=\\\"http://triggmine.com\\\">...more info...</a>"
+
+#. translators: plugin header field 'AuthorURI'
+#: index.php:0
+#@ triggmine
+msgid "http://triggmine.com"
+msgstr "http://triggmine.com"
+
+#. translators: plugin header field 'Version'
+#: index.php:0
+#@ triggmine
+msgid "2.0"
+msgstr "2.0"
+
+#: index.php:71
+#@ triggmine
+msgid "General Plugin Settings"
+msgstr "General Plugin Settings"
+
+#: index.php:75
+#@ triggmine
+msgid "Plugin on"
+msgstr "Plugin on"
+
+#: index.php:79
+#@ triggmine
+msgid "Rest Api"
+msgstr "Rest Api"
+
+#: index.php:83
+#@ triggmine
+msgid "Token"
+msgstr "Token"
+
+#: index.php:90
+#@ triggmine
+msgid "General section description"
+msgstr "General section description"
+
+#: index.php:123
+#@ triggmine
+msgid "Order export"
+msgstr "Order export"
+
+#: index.php:131
+#@ triggmine
+msgid "Select the time period"
+msgstr "Select the time period"
+
+#: index.php:139
+#@ triggmine
+msgid "Export description goes here."
+msgstr "Export description goes here."
+
+#: index.php:147
+#@ triggmine
+msgid "Week"
+msgstr "Week"
+
+#: index.php:148
+#@ triggmine
+msgid "Month"
+msgstr "Month"
+
+#: index.php:149
+#@ triggmine
+msgid "3 month"
+msgstr "3 month"
+
+#: index.php:150
+#@ triggmine
+msgid "6 month"
+msgstr "6 month"
+
+#: index.php:151
+#@ triggmine
+msgid "Year"
+msgstr "Year"
+
+#: index.php:152
+#@ triggmine
+msgid "All"
+msgstr "All"
+
+#: index.php:185
+#@ triggmine
+msgid "Triggmine Settings"
+msgstr "Triggmine Settings"
+
+#: index.php:200
+#@ triggmine
+msgid "Export Orders"
+msgstr "Export Orders"
+
