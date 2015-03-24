@@ -1,5 +1,5 @@
-=== Triggmine ===
-Contributors: Triggmine
+=== TriggMine ===
+Contributors: TriggMine
 Tags: cart, e-commerce, ecommerce, shipping, shop, wp e-commerce
 Requires at least: 3.9.2
 Tested up to: 4.1
